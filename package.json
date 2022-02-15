@@ -9,7 +9,7 @@
   "commands": [
     {
       "name": "index",
-      "title": "Show List and Detail",
+      "title": "Search Document",
       "description": "Template for showing a static list and a detail view",
       "mode": "view"
     }
@@ -36,7 +36,8 @@
     "eslint-config-prettier": "^8.3.0",
     "prettier": "^2.5.1",
     "react-devtools": "^4.19.2",
-    "typescript": "^4.4.3"
+    "typescript": "^4.4.3",
+    "use-debounce": "^7.0.1"
   },
   "scripts": {
     "build": "ray build -e dist",
