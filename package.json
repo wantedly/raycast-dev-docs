@@ -9,8 +9,8 @@
   "commands": [
     {
       "name": "index",
-      "title": "Search Wantedly dev-docs",
-      "description": "Search and show summary Wantedly dev-docs",
+      "title": "Search Wantedly handbook",
+      "description": "Search and show summary Wantedly handbook",
       "mode": "view"
     }
   ],
