@@ -9,8 +9,8 @@
   "commands": [
     {
       "name": "index",
-      "title": "Search Document",
-      "description": "Template for showing a static list and a detail view",
+      "title": "Search Wantedly dev-docs",
+      "description": "Search and show summary Wantedly dev-docs",
       "mode": "view"
     }
   ],
