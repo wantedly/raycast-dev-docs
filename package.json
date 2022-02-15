@@ -24,6 +24,7 @@
     }
   ],
   "dependencies": {
+    "@octokit/rest": "^18.12.0",
     "@raycast/api": "^1.28.0"
   },
   "devDependencies": {
