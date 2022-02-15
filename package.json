@@ -3,7 +3,7 @@
   "name": "dev-docs",
   "title": "Dev Docs",
   "description": "",
-  "icon": "command-icon.png",
+  "icon": "wantedly-logo.png",
   "author": "potsbo",
   "license": "MIT",
   "commands": [
