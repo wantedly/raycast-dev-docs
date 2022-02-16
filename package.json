@@ -3,14 +3,14 @@
   "name": "dev-docs",
   "title": "Dev Docs",
   "description": "",
-  "icon": "command-icon.png",
+  "icon": "wantedly-logo.png",
   "author": "potsbo",
   "license": "MIT",
   "commands": [
     {
       "name": "index",
-      "title": "Search Document",
-      "description": "Template for showing a static list and a detail view",
+      "title": "Search Wantedly handbook",
+      "description": "Search and show summary Wantedly handbook",
       "mode": "view"
     }
   ],
